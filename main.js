@@ -28,7 +28,7 @@
 
    
     //Fecha a futuro
-const countdownDate = new Date('April 29 2023 21:30:30 GMT-0300').getTime();
+const countdownDate = new Date('April 29 2024 21:30:30 GMT-0300').getTime();
 
 let interval = setInterval(function(){
     //Obtener fecha actual y milisegundos

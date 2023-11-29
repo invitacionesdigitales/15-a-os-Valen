@@ -132,8 +132,8 @@
       color: #888888;
       font-size: 18px;
       font-weight: bold;
-      background: rgb(243, 230, 156);
-background: linear-gradient(90deg, rgb(245, 245, 240) 0%, rgba(253, 231, 205, 0.781) 48%, rgba(209,231,201,0) 100%);
+      background: rgb(247, 219, 248);
+background: linear-gradient(90deg, rgb(245, 245, 240) 0%, rgba(246, 225, 240, 0.781) 48%, rgba(223, 248, 213, 0) 100%);
     }
     .container {
       width: 100%;
@@ -378,7 +378,7 @@ margin-left: 15%;
     height: 60px;
     line-height: 60px;
     text-align: center;
-    background: #855995;
+    background: #f2f2f2;
     color: #f1f1f1;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
